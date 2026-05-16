@@ -7,10 +7,7 @@
       "name": "FREE - Executor Collection",
       "id": null,
       "subfolders": {
-        "1": {"name": "⚡ Delta QT",   "id": "a47d8047-023d-4680-918f-f18de2266054"},
-        "2": {"name": "⚡ Delta VNG",  "id": "8ce37c67-8b61-42b0-8c56-09a5068c2be0"},
-        "3": {"name": "⚡ Arceus QT",  "id": "862205a5-f277-40d5-a59d-0daab3fb89f6"},
-        "4": {"name": "⚡ Arceus VNG", "id": "ce3a21d3-b0e3-4b17-9877-56d193bb382d"}
+        "1": {"name": "⚡ Arceus VNG", "id": "ce3a21d3-b0e3-4b17-9877-56d193bb382d"}
       }
     },
     "2": {
