@@ -1,1 +1,28 @@
-
+{
+  "version": "2.0.0",
+  "status": "active",
+  "message": "Chào mừng bạn dùng tool!",
+  "folders": {
+    "1": {
+      "name": "FREE - Executor Collection",
+      "id": null,
+      "subfolders": {
+        "1": {"name": "⚡ Delta QT",   "id": "a47d8047-023d-4680-918f-f18de2266054"},
+        "2": {"name": "⚡ Delta VNG",  "id": "8ce37c67-8b61-42b0-8c56-09a5068c2be0"},
+        "3": {"name": "⚡ Arceus QT",  "id": "862205a5-f277-40d5-a59d-0daab3fb89f6"},
+        "4": {"name": "⚡ Arceus VNG", "id": "8347e4d6-922a-43d3-b1f0-ff23be8f3f21"}
+      }
+    },
+    "2": {
+      "name": "💎 PREMIUM",
+      "id": "YOUR_PREMIUM_FOLDER_ID",
+      "subfolders": {}
+    }
+  },
+  "support_files": {
+    "1": {"name": "📦 ZArchiver",                  "id": "75d1bebc-2244-4fee-8fc5-53a9049146d8", "filename": "zarchiver.apk"},
+    "2": {"name": "🔧 Android ID Changer V4 [ROOT]","id": "293da161-bbdf-4186-bc2d-25a31e6e8ccd", "filename": "Android ID Changer V4[ROOT].apk"},
+    "3": {"name": "📁 File Manager",               "id": "341c3b58-9662-42ad-b70f-287caa9434a9", "filename": "filemanager.apk"},
+    "4": {"name": "🌐 1.1.1.1 (Cloudflare VPN)",   "id": "783b3685-af3c-4902-b06b-5bd4df702c7e", "filename": "1.1.1.1.apk"}
+  }
+}
