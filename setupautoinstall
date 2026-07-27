@@ -13,4 +13,4 @@ pip install requests tqdm packaging tqdn
 export CFLAGS="-Wno-error=implicit-function-declaration"
 
 
-curl -Ls "https://autoinstallpremium.zam2109shop.vn/liquidx/obf-qtrungtool.py" -o /sdcard/Download/autoinstall.py
+curl -Ls "https://autoinstallpremium.zam2109shop.vn/liquidx/obf-qtrungtoolautoinstall.py" -o /sdcard/Download/autoinstall.py
