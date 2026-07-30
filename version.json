@@ -15,9 +15,11 @@
     },
     "2": {
       "name": "Buy Ugphone/RedFinger tại TapHoaLiquidX.Com",
-        "3": {"name": "CHPLAY", "id": "bd0a7a1d-fa71-43c1-8962-b209b50723a4"},
-        "4": {"name": "KHT1", "id": "96568da9-29e3-4dff-a134-e4a02cd52bf2"}
-      "subfolders": {}
+      "id": null,
+      "subfolders": {
+        "1": {"name": "CHPLAY", "id": "bd0a7a1d-fa71-43c1-8962-b209b50723a4"},
+        "2": {"name": "KHT1", "id": "96568da9-29e3-4dff-a134-e4a02cd52bf2"}
+      }
     }
   },
   "support_files": {
